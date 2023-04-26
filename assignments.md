@@ -6,17 +6,13 @@
 
 | Assignment | Title | Topics covered | Points |
 |---|---|---|---:|
-| a00 | Onboarding | Installing software; git and Github; bash/command line | 50,000 |
-| a01 | Node | Package management; creating packages; Node.js; npm; write a webserver | 50,000 |
-| a02 | Functions | Running JavaScript as program; Write JavaScript functions | 50,000 |
-| a03 | Modules | Turn a collection of functions into a module; Learn to integrate it |  |
-| a04 | API | Turning functions into endpoints; REST; Express | 50,000 |
-| a05 | Database | Interface an API with a database; store info | 50,000 |
-| a06 | Authentication | Create a set of user login endpoints; Access DB info for authenticated users | 50,000 |
-| a07 | Logging | Create log files and a log database | 50,000 |
-| a08 | Web interface | Connect an interface to your API | 50,000 |
-| a09 | Advanced web interface | Use a library or framework to build a more polished web interface | 50,000 | 
-| a99 | Final project | Collaboration; Project planning and management | 300,000 |
+| a00 | Onboarding | Installing software; git and Github; bash/command line | 100,000 |
+| a01 | Node | Package management; creating packages; Node.js; npm; write a webserver | 100,000 |
+| a02 | Functions | Running JavaScript as program; Write JavaScript functions | 100,000 |
+| a03 | Modules | Turn a collection of functions into a module; Learn to integrate it | 100,000 |
+| a04 | API | Turning functions into endpoints; REST; Express | 100,000 |
+| a99 | Final project | Collaboration; Project planning and management (choice between exam and project) | 300,000 |
+| e02 | Final exam | Create web interface for API from a04 (choice between exam and project) | 300,000 |
 
 #### Assignment submission
 
